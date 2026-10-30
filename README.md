@@ -50,5 +50,5 @@ The purpose of this repository is to document my practical progress, strengthen 
 More assignments and updates will be added throughout the internship.
 
 
-Author: Zeinab Zakaria
-Field: Information Technology | Cybersecurity
+**Author**: Zeinab Zakaria
+**Field**: Information Technology | Cybersecurity
